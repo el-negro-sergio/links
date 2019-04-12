@@ -17,3 +17,5 @@ https://www.vikingcodeschool.com/professional-development-with-ruby/ruby-cheat-s
 https://www.engineyard.com/blog/getting-started-with-nokogiri
 
 http://ruby.bastardsbook.com/chapters/html-parsing/
+
+https://github.com/Anis4300/Scrap/blob/master/lib/cher_depute.rb
